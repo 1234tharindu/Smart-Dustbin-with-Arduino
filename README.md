@@ -32,6 +32,9 @@ The program for the Arduino code can be downloaded here. Upload the code to Ardu
 
 The program for the Arduino code can be downloaded [here](https://drive.google.com/file/d/1U6APAIPC2DyERAz9IY1Z4s3cP7zdXJ0C/view?usp=drive_link). Upload the code to Arduino Uno. Stick the Arduino, and battery on the wall of the dustbin using a double-sided tape.
 
+### Video Clip
+
+https://github.com/user-attachments/assets/2514f042-4fd0-4ecb-b302-0d0b63274a86
 
 
 
